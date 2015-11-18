@@ -1,8 +1,8 @@
 # Test-Nr.5
 
-1. Liste  
-2. Tabelle
-3. Schrift
+*  Liste  
+*  Tabelle
+*  Schrift
 
 
 
